@@ -12,6 +12,7 @@ function rijtje($key,$value){
 
 
 $Achtergrond = $_POST["achtergrond"]; 
+$kleur = array("red", "blue", "green", "black", "brown");
 $dikte = $_POST["border"];
 $padding = $_POST["padding"];
 $tekstkleur = $_POST["tekstkleur"];
